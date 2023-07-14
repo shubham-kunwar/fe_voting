@@ -11,7 +11,7 @@ const NavbarContainer = styled.div`
 `;
 
 const Logo = styled.img`
-  height: 50px;
+  height: 60px;
   margin-right: 16px;
 `;
 
@@ -54,7 +54,6 @@ const HomeLink = styled(Link)`
   cursor: pointer;
   margin-right: 10px;
   position: relative;
-  margin-left: 50px;
   text-decoration: none;
 
   &:hover {

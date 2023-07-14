@@ -51,7 +51,6 @@ const HomeLink = styled(Link)`
   cursor: pointer;
   margin-right: 10px;
   position: relative;
-  margin-left: 50px;
   text-decoration: none;
   &:hover {
     background-color: #eee;
