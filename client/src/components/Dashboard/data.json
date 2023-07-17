@@ -1,7 +1,0 @@
-[
-    { "name": "voting", "active": true },
-    { "name": "general", "active": false },
-    { "name": "tutorial", "active": false },
-    { "name": "result", "active": false }
-  ]
-  
